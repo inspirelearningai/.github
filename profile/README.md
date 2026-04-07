@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/inspirelearningai/.github/main/assets/logo.png" width="200" height="200" alt="inspirelearningai logo" />
+  <img src="https://raw.githubusercontent.com/inspirelearningai/.github/main/assets/inspire_learning_ai_full_screen_logo.jpeg" width="600" alt="inspirelearningai logo" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
   <h3>AI-powered educational platforms and content generation. Transforming the way we learn and teach.</h3>
   
   <p>
-    <a href="https://inspirelearningai.github.io/inspirelearningai/">Our Homepage</a>
+    <a href="https://inspirelearningai.invariantcontinuum.com/">Our Homepage</a>
     <a href="mailto:contact@inspirelearningai.io">Get In Touch</a>
   </p>
 </div>
