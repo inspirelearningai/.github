@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Inspire Learning AI</h1>
+  <h1>inspirelearningai</h1>
   <h3>AI-powered educational platforms and content generation. Transforming the way we learn and teach.</h3>
   
   <p>
@@ -15,6 +15,7 @@
 ---
 
 ### 🚀 Our Vision
+
 
 At **Inspire Learning AI**, our core mission is focused on:
 > AI-powered educational platforms and content generation. Transforming the way we learn and teach.
@@ -30,5 +31,5 @@ We welcome contributions from everyone. Check out our repositories and get invol
 ---
 
 <div align="center">
-  <small>© 2026 Inspire Learning AI. Built for the Community.</small>
+  <small>© 2026 inspirelearningai. Built for the Community.</small>
 </div>
