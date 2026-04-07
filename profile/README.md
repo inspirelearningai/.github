@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/inspirelearningai/.github/main/assets/logo.png" width="200" height="200" alt="inspirelearningai logo" />
+</div>
+
+<div align="center">
   <h1>Inspire Learning AI</h1>
   <h3>AI-powered educational platforms and content generation. Transforming the way we learn and teach.</h3>
   
